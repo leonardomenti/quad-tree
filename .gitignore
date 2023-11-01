@@ -1,6 +1,6 @@
 out/
 .DS_Store
-results*
+results.txt
 .idea/
 .ipynb_checkpoints/
 Untitled.ipynb
