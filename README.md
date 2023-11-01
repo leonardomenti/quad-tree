@@ -14,7 +14,7 @@ This repository serves as a resource for those interested in understanding, util
 
 Our experiment showed that the new deletion algorithm significantly reduces the number of re-insertions compared to the classical method in Quad Trees. This underscores the algorithm's efficiency and its potential to minimize structural changes in the Quad Tree.
 
-<img src="results.png" alt="results" width="700" height="600">
+<img src="results.png" alt="results" width="500" height="400">
 
 For detailed data and figures, refer to the project's repository and documentation.
 ---
