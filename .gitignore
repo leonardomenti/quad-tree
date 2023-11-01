@@ -1,0 +1,6 @@
+out/
+.DS_Store
+results*
+.idea/
+.ipynb_checkpoints/
+Untitled.ipynb
