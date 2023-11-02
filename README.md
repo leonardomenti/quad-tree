@@ -4,7 +4,7 @@ A Point Quad Tree is an unbalanced tree data structure that divides a two-dimens
 
 ## About Point Quad Trees
 
-In this project, we focus on Point Quad Trees, a specific type of quad tree where each subdivision's center always corresponds to a point. We've implemented and tested an efficient deletion algorithm for two-dimensional Point Quad Trees, inspired by Hanan Sarnet's work from the University of Maryland [1].
+In this project, we focus on Point Quad Trees, a specific type of quad tree where each subdivision's center always corresponds to a point. I've implemented and tested an efficient deletion algorithm for two-dimensional Point Quad Trees, inspired by Hanan Sarnet's work from the University of Maryland [1].
 
 ## Repository
 
