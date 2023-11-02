@@ -16,7 +16,6 @@ Our experiment showed that the new deletion algorithm significantly reduces the 
 
 <img src="results.png" alt="results" width="500" height="400">
 
-For detailed data and figures, refer to the project's repository and documentation.
 ---
 
 [1] Hanan Sarnet, "Deletion in Quad Trees," University of Maryland.
